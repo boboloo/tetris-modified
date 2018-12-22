@@ -4,7 +4,7 @@ classic tetris with shift hold and space bar drop
 This is a modified version of the classic Tetris game based on the guide from https://noobtuts.com/unity/2d-tetris-game/
 
 In this version, specific additions to be created include:
-- The ability to press space to quick drop pieces # completed #
+- The ability to press space to quick drop pieces - COMPLETED
 - Correction in the rotation of pieces (In tetris, pieces typically rotate around a center, but with the I, S, and Z piece these
   rotations have a center that is not properly indicated in the tutorial)
 - Shift holding pieces (not traditional to the game)
